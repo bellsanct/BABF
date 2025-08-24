@@ -5,5 +5,7 @@
 ### sample(Hello World!)
 
 > node bin/run.js /examples/HelloWorld.nyufufu
-> OR
+
+OR
+
 > npm start
