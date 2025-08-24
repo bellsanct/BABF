@@ -1,0 +1,16 @@
+{
+  "name": "babf",
+  "version": "1.0.0",
+  "main": "src/interpreter.js",
+  "bin": {
+    "babf": "./bin/run.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/run.js examples/HelloWorld.nyufufu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
